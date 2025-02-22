@@ -1,5 +1,8 @@
-body{
+html{
     overflow-x: hidden;
+}
+
+body{
     font-family: "Inter", sans-serif;
     background-image: url("/images/startpages_bg.png");
     background-size: 115vh;

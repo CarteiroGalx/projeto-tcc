@@ -19,37 +19,25 @@ a{
     text-decoration: none;
 }
 
-.bg-black{
-    background-color: #202020;
-}
-
 #logoRed {
     min-height: 60px;
     height: 10vh;
     margin: 6px 0 0 15px;
 }
 
-.relative-position{
-    position: relative;
-}
-
-.center-text{
-    text-align: center;
-}
-
 #form{
-    /** Esse border é pra criar o efeito da faixa vermelha passando diagonalmente **/
-    border-radius: 50% 0 0 0;
+    /** Esse border é pra criar o efeito da faixa vermelha passando diagonalmente sem ser cortado**/
+    border-radius: 100% 0 0 0;
     background-color: #202020;
     display: flex;
     flex-direction: column;
-    padding-bottom: 20px;
+    padding-bottom: 45px;
 }
 
 .red-rect{
     position: absolute;
     border-top: 7px solid #E10712;
-    top: -19%;
+    top: -25%;
     left: -50px;
     width: 150%;
     height: 60%;

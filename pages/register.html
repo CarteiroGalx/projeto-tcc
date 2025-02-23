@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     <link href="/css/reset.css" rel="stylesheet">
-    <link href="/css/index_style.css" rel="stylesheet">
+    <link href="/css/register_style.css" rel="stylesheet">
     <title>ConectFit</title>
 </head>
 <body>
@@ -15,9 +15,14 @@
         <img src="/images/logo.png" id="logoRed">
     </header>
     <main>
-        <div id="login-area" style="position: relative;">
+        <div id="register-area" style="position: relative;">
+            <div class="red-rect"></div>
             <form id="form">
-                <h1 style="color: white;">Login</h1>
+                <h1 style="color: white;">Cadastro</h1>
+                <div class="form-input">
+                    <label for="name">Nome</label>
+                    <input class="input" placeholder="nome" type="text" name="name">
+                </div>
                 <div class="form-input">
                     <label for="name">Nome</label>
                     <input class="input" placeholder="nome" type="text" name="name">
@@ -31,9 +36,7 @@
                     <a href="#">Esqueceu sua senha?</a>
                     <p href="/pages/register.html">Não possui cadastro?<a class="register" style="color: #00B2FF;"> Cadastre-se</a></p>
                 </div>
-            </form>
         </div>
-        <div class="red-rect"></div>
     </main>
 </body>
 </html>

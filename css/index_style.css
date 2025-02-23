@@ -35,12 +35,12 @@ a{
 }
 
 .red-rect{
-    clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 25%, 100% 0, 100% 2%, 0 27%);
     position: absolute;
-    bottom: 0%;
+    bottom: 2%;
     width: 100%;
-    height: 475px;
-    z-index: -1;
+    height: 466px;
+    z-index: 3;
     background-color: #E10712;
 }
 
@@ -91,6 +91,10 @@ button:hover{
 }
 
 @media (max-height: 500px) {
+
+    .red-rect{
+        bottom: -32%;
+    }
 
     html{
         height: 135%;

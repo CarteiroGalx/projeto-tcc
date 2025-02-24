@@ -3,7 +3,7 @@ body{
     background-position: 20% 0%;
 }
 
-.red-rect{
+.rect{
     clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
     bottom: 76%;
     height: 204px;

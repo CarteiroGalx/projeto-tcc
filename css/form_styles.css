@@ -35,7 +35,7 @@ a{
     padding-bottom: 45px;
 }
 
-.red-rect{
+.rect{
     width: 100%;
     position: absolute;
     z-index: 3;

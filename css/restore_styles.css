@@ -1,0 +1,42 @@
+body{
+    background-size: 123vw;
+    background-position: 20% 0%;
+}
+
+.red-rect{
+    background-color: #09D815;
+    clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
+    bottom: 77%;
+    height: 126px;
+}
+
+#form{
+    clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
+}
+
+button{
+    background: linear-gradient(90deg, #1F4700 0%, #07E116 100%);
+}
+
+h1{
+    padding-top: 160px;
+}
+
+@media (max-height: 1080px) {
+    body{
+        background-size: 235vw;
+    }
+}
+
+
+@media (max-height: 500px) {
+
+    html{
+        height: 135%;
+    }
+
+    body{
+        background-position: 30% 0%;
+        background-size: 155vw;
+    }
+}

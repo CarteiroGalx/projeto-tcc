@@ -1,4 +1,5 @@
-/* Este CSS é para elementos referentes exclusivamente aos formulários de Login, Cadastro e Recuperação de Senha */
+/* Este CSS é para elementos referentes exclusivamente aos formulários de Login, Cadastro e Recuperação de Senha 
+Algumas declarações como background-size ou background-position é sugerido serem definidas no CSS separado para a página em si*/
 
 html{
     overflow-x: hidden;
@@ -8,8 +9,6 @@ html{
 body{
     font-family: "Inter", sans-serif;
     background-image: url("/images/startpages_bg.png");
-    background-size: 90vh;
-    background-position: 20% 0%;
     color: white;
     min-height: 100%;
     display: flex;
@@ -34,6 +33,13 @@ a{
     display: flex;
     flex-direction: column;
     padding-bottom: 45px;
+}
+
+.red-rect{
+    width: 100%;
+    position: absolute;
+    z-index: 3;
+    background-color: #E10712;
 }
 
 h1{

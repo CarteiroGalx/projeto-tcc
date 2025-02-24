@@ -1,103 +1,44 @@
-html{
-    overflow-x: hidden;
-}
-
 body{
-    font-family: "Inter", sans-serif;
-    background-image: url("/images/startpages_bg.png");
-    background-size: 115vh;
-    background-position: 70% 0%;
-    color: white;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    background-size: 123vw;
+    background-position: 20% 0%;
 }
 
-a{
-    color: #00B2FF;
-    text-decoration: none;
-}
-
-
-#logoRed {
-    min-height: 60px;
-    height: 10vh;
-    margin: 6px 0 0 15px;
+.red-rect{
+    clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
+    position: absolute;
+    bottom: 76%;
+    width: 100%;
+    height: 204px;
+    z-index: 3;
+    background-color: #E10712;
 }
 
 #form{
-    /** Esse border é pra criar o efeito da faixa vermelha passando diagonalmente sem ser cortado**/
-    border-radius: 100% 0 0 0;
+    clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
     background-color: #202020;
     display: flex;
     flex-direction: column;
     padding-bottom: 45px;
 }
 
-.red-rect{
-    position: absolute;
-    border-top: 7px solid #E10712;
-    top: -25%;
-    left: -50px;
-    width: 150%;
-    height: 60%;
-    z-index: -1;
-    transform: rotate(-25deg);
-    background-color: #202020;
-}
-
 h1{
-    text-align: center;
-    margin-bottom: 15px;
+    padding-top: 160px;
 }
 
-.form-input{
-    margin: 12px auto;
-    display: flex;
-    flex-direction: column;
+@media (max-height: 1080px) {
+    body{
+        background-size: 142vw;
+    }
 }
 
-label{
-    margin-left: 15px;
-}
-
-.input {
-    padding: 21px;
-    border-style: none;
-    border-radius: 13px;
-    width: 60vw;
-    height: 25px;
-}
-
-button{
-    border-style: none;
-    width: 70vw;
-    height: 48px;
-    background: linear-gradient(90deg, #752222 0%, #E10712 100%);
-    border-radius: 11px;
-    margin: 10px auto;
-}
-
-button:hover{
-    cursor: pointer;
-}
-
-#btn-text{
-    font-size: larger;
-    color: white;
-}
-
-.register:hover{
-    cursor: pointer;
-}
 
 @media (max-height: 500px) {
+
     html{
-        height: 135vh;
+        height: 135%;
     }
 
     body{
-        height: 100%;
+        background-position: 30% 0%;
     }
 }

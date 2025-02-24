@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     <link href="/css/reset.css" rel="stylesheet">
+    <link href="/css/form_styles.css" rel="stylesheet">
     <link href="/css/register_style.css" rel="stylesheet">
     <title>ConectFit</title>
 </head>
@@ -15,27 +16,36 @@
         <img src="/images/logo.png" id="logoRed">
     </header>
     <main>
-        <div id="register-area" style="position: relative;">
-            <div class="red-rect"></div>
+        <div id="login-area" style="position: relative;">
             <form id="form">
                 <h1 style="color: white;">Cadastro</h1>
                 <div class="form-input">
-                    <label for="name">Nome</label>
-                    <input class="input" placeholder="nome" type="text" name="name">
-                </div>
-                <div class="form-input">
-                    <label for="name">Nome</label>
+                    <label for="name" required>Nome</label>
                     <input class="input" placeholder="nome" type="text" name="name">
                 </div>
                 <div class="form-input">
                     <label for="password">Senha</label>
                     <input class="input" placeholder="senha" type="password" name="password">
                 </div>
-                <button type="submit"><span id="btn-text">Entrar</span></button>
+                <div class="form-input">
+                    <label for="password">Confirmar senha</label>
+                    <input class="input" placeholder="Confirmar senha" type="password">
+                </div>
+                <div class="form-input">
+                    <label for="password">Celular</label>
+                    <input class="input" placeholder="(81) 9XXXXX-XXXX" type="tel" pattern="[0-9]{2}-[0-9]{6}-[0-9]{4}" name="phone">
+                </div>
+                <div class="form-input">
+                    <label for="password">Idade</label>
+                    <input class="input" placeholder="Idade" type="number" min="1" max="100" name="age">
+                </div>
+                <button type="submit"><span id="btn-text">Registrar-se</span></button>
                 <div style="text-align: center;">
                     <a href="#">Esqueceu sua senha?</a>
-                    <p href="/pages/register.html">Não possui cadastro?<a class="register" style="color: #00B2FF;"> Cadastre-se</a></p>
+                    <p>Já possui uma conta?<a href="../index.html"> Conecte-se</a></p>
                 </div>
+            </form>
+            <div class="red-rect"></div>
         </div>
     </main>
 </body>

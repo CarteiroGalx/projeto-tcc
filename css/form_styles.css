@@ -35,6 +35,10 @@ a{
     padding-bottom: 45px;
 }
 
+.req-sign{
+    color: #E10712;
+}
+
 .rect{
     width: 100%;
     position: absolute;

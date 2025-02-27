@@ -17,36 +17,55 @@
     </header>
     <main>
         <div id="register-area" style="position: relative;">
-            <form id="form" method="post">
+            <form id="form" method="post" action="sua_pagina_de_processamento.php">
                 <h1 style="color: white;">Cadastro</h1>
+            
                 <div class="form-input">
-                    <label for="name" required>Nome</label>
-                    <input class="input" placeholder="nome" type="text" name="name">
+                    <label for="name">Nome<span class="req-sign">*</span></label>
+                    <input class="input" placeholder="nome" type="text" name="name" id="name" required autocomplete="name">
                 </div>
+            
                 <div class="form-input">
-                    <label for="password">Senha</label>
-                    <input class="input" placeholder="senha" type="password" name="password">
+                    <label for="password">Senha<span class="req-sign">*</span></label>
+                    <input class="input" placeholder="senha" type="password" name="password" id="password" required autocomplete="new-password">
                 </div>
+            
                 <div class="form-input">
-                    <input class="input" placeholder="Confirmar senha" type="password">
-                    <!-- Adicionar um validador de senha, verificando se as duas senhas estão iguais -->
+                    <label for="confirm-password">Confirmar senha<span class="req-sign">*</span></label>
+                    <input class="input" placeholder="Confirmar senha" type="password" name="confirm-password" id="confirm-password" required autocomplete="new-password">
                 </div>
+            
                 <div class="form-input">
-                    <label for="password">Celular</label>
-                    <input class="input" placeholder="(81) 9XXXXX-XXXX" type="tel" pattern="[0-9]{2}-[0-9]{6}-[0-9]{4}" name="phone">
+                    <label for="phone">Celular<span class="req-sign">*</span></label>
+                    <input class="input" placeholder="(XX) 9XXXX-XXXX" type="tel" name="phone" id="phone" required autocomplete="tel" pattern="\([0-9]{2}\) 9[0-9]{4,5}[0-9]{4}">
                 </div>
+            
                 <div class="form-input">
-                    <label for="password">Idade</label>
-                    <input class="input" placeholder="Idade" type="number" min="1" max="100" name="age">
+                    <label for="age">Idade<span class="req-sign">*</span></label>
+                    <input class="input" placeholder="Idade" type="number" min="1" max="100" name="age" id="age" required autocomplete="off">
                 </div>
+            
+                <div style="display: flex; margin: 10px auto;">
+                    <label for="checkbox">
+                        <input type="checkbox" id="checkbox" name="isTeacher">
+                        <span style="margin: 0 10px;">Cadastrar como professor</span>
+                    </label>
+                </div>
+            
+                <div id="cip" class="form-input" style="display: none;">
+                    <label for="cip">Região/Registro CIP<span class="req-sign">*</span></label>
+                    <input class="input" type="text" name="cip" id="cip" autocomplete="off">
+                </div>
+            
                 <button type="submit"><span id="btn-text">Registrar-se</span></button>
                 <div style="text-align: center;">
                     <a href="restorePassword.html">Esqueceu sua senha?</a>
-                    <p>Já possui uma conta?<a href="../index.html"> Conecte-se</a></p>
+                    <p>Já possui uma conta? <a href="../index.html"> Conecte-se</a></p>
                 </div>
             </form>
             <div class="rect"></div>
         </div>
     </main>
+    <script src="/scripts/register_script.js"></script>
 </body>
 </html>

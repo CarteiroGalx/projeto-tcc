@@ -3,11 +3,12 @@ body{
     background-position: 20% 0%;
 }
 
-.rect{
+#rect{
     background-color: #09D815;
     clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
-    bottom: 77%;
-    height: 126px;
+    bottom: 214px;
+    height: 116px;
+    width: 100%;
 }
 
 #form{
@@ -26,6 +27,7 @@ h1{
     body{
         background-size: 235vw;
     }
+    
 }
 
 
@@ -38,5 +40,11 @@ h1{
     body{
         background-position: 30% 0%;
         background-size: 155vw;
+    }
+}
+
+@media (min-height: 500px) {
+    #rect{
+        bottom: 350px;
     }
 }

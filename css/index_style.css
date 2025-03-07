@@ -6,7 +6,7 @@ body{
     clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
 }
 
-.rect{
+#rect{
     clip-path: polygon(0 25%, 100% 0, 100% 2%, 0 27%);
     bottom: 2%;
     height: 466px;
@@ -14,7 +14,7 @@ body{
 
 @media (max-height: 500px) {
 
-    .red-rect{
+    #rect{
         bottom: -32%;
     }
 

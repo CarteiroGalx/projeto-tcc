@@ -3,18 +3,24 @@ body{
     background-position: 20% 0%;
 }
 
-.rect{
+#rect{
     clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
-    bottom: 76%;
+    bottom: 80%;
     height: 204px;
 }
 
 #form{
-    clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 21%, 100% 0, 100% 100%, 0% 100%);
 }
 
 h1{
     padding-top: 160px;
+}
+
+.warning{
+    color: yellow;
+    font-size: xx-small;
+    text-align: center;
 }
 
 @media (max-height: 1080px) {

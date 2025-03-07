@@ -39,7 +39,7 @@ a{
     color: #E10712;
 }
 
-.rect{
+#rect{
     width: 100%;
     position: absolute;
     z-index: 3;

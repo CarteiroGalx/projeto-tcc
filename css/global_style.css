@@ -1,8 +1,12 @@
-
+html{
+    background-color: #474747;
+}
 
 body{
+    position: relative;
     margin: 0 auto;
     min-width: 320px;
+    max-width: 600px;
     font-family: "Inter", sans-serif;
     color: white;
     min-height: 100vh;
@@ -18,9 +22,11 @@ header{
 .bg{
     position: absolute;
     background-image: url("/images/startpages_bg.png");
-    background-size: 150%;
+    background-size: 130%;
+    background-position-x: 20%;
     width: 100%;
     height: 100%;
+    left: 0;
     z-index: -1;
 }
 

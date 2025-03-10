@@ -1,13 +1,14 @@
 
 
 #rect{
+    position: absolute;
     clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);
-    bottom: 80%;
-    height: 204px;
+    bottom: 87%;
+    height: 131px;
 }
 
 #form{
-    clip-path: polygon(0 21%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 14%, 100% 0, 100% 100%, 0% 100%);
 }
 
 h1{
@@ -18,22 +19,4 @@ h1{
     color: yellow;
     font-size: xx-small;
     text-align: center;
-}
-
-@media (max-height: 1080px) {
-    body{
-        background-size: 142vw;
-    }
-}
-
-
-@media (max-height: 500px) {
-
-    html{
-        height: 135%;
-    }
-
-    body{
-        background-position: 30% 0%;
-    }
 }

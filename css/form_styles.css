@@ -1,8 +1,6 @@
 /* Este CSS é para elementos referentes exclusivamente aos formulários de Login, Cadastro e Recuperação de Senha*/
 
-main{
-    position: relative;
-}
+
 
 #form{
     clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
@@ -23,7 +21,7 @@ h1{
 }
 
 .form-input{
-    min-width: 200px;
+    min-width: 240px;
     margin: 12px auto;
     display: flex;
     flex-direction: column;

@@ -1,6 +1,4 @@
-body{
-    background-size: 217vw;
-}
+
 
 #form{
     clip-path: polygon(0 25%, 100% 0, 100% 100%, 0% 100%);
@@ -8,17 +6,21 @@ body{
 
 #rect{
     clip-path: polygon(0 25%, 100% 0, 100% 2%, 0 27%);
-    bottom: 2%;
     height: 466px;
 }
 
-@media (max-height: 500px) {
+@media (min-height: 700px) {
 
-    #rect{
-        bottom: -32%;
+    .bg{
+        background-position-x: 17%;
+        background-size: 200%;
     }
+}
 
-    html{
-        height: 135%;
+@media (min-height: 900px) {
+
+    .bg{
+        background-position-x: 17%;
+        background-size: 250%;
     }
 }

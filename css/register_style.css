@@ -1,7 +1,4 @@
-body{
-    background-size: 123vw;
-    background-position: 20% 0%;
-}
+
 
 #rect{
     clip-path: polygon(0 97%, 100% 0, 100% 3%, 0 100%);

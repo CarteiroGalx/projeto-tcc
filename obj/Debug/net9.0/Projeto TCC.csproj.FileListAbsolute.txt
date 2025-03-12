@@ -1,0 +1,98 @@
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.sourcelink.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\appsettings.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.staticwebassets.runtime.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.staticwebassets.endpoints.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.exe
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.deps.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.dll
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\bin\Debug\net9.0\Projeto TCC.pdb
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\scopedcss\bundle\Projeto TCC.styles.css
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\scopedcss\projectbundle\Projeto TCC.bundle.scp.css
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\u97h2zwbqi-b9sayid5wm.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\xypyttf1mw-61n19gt1b8.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\c9sya8ix5l-xtxxf3hu2r.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\ruktzbqxr6-bqjiyaj88i.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\0mqku3ykrr-c2jlpeoesf.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\t78l5l4fzr-erw9l3u2r3.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\yl91zi8hfh-aexeepp0ev.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\palo8gkxjz-d7shbmvgxk.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\oxuj0xview-ausgxo2sd3.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\lrfnjuzp30-k8d9w2qqmf.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\5t21mmc4h2-cosvhxvwiu.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\zcx06iv14b-ub07r2b239.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\96xmjsor4l-fvhpjtyr6v.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\onhk8bjq0u-b7pk76d08c.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\zepdfwxfnb-fsbi9cje9m.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\veoe2j4r7o-rzd6atqjts.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\68d5tz3bab-ee0r1s7dh0.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\ihxeko5gl7-dxx9fxp4il.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\5ql4dmk9aq-jd9uben2k1.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\w49jcrtu2b-khv3u5hwcm.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\qzxkel9y72-r4e9w2rdcm.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\x93lqcv6yr-lcd1t2u6c8.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\mtfjwkdq34-c2oey78nd0.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\ozv18hrfg0-tdbxkamptv.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\nmh8ei20tb-j5mq2jizvt.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\tcjluv0elw-06098lyss8.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\concyxi3r2-nvvlpmu67g.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\3ois61pchg-s35ty4nyc5.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\mcw804car0-pj5nd1wqec.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\7suvoq5206-46ein0sx1k.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\dkzvlkc7kh-v0zj4ognzu.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\s2iwd74pug-37tfw0ft22.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\0a1z782j54-hrwsygsryq.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\yeng0kgxrf-pk9g2wxc8p.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\y1q6dz9dd2-ft3s53vfgj.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\zq09zqo93x-6cfz1n2cew.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\vr1dapj451-6pdc2jztkx.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\70wgp65eau-493y06b0oq.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\pxtacfh9nx-iovd86k7lj.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\lgzmrx5ee6-vr1egmr9el.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\yzzu50c6mf-kbrnm935zg.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\3mhyk3f8dy-jj8uyg4cgr.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\ribm3o6jyc-y7v9cxd14o.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\o118dmrtmv-notf2xhcfb.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\1c5k6xmasu-h1s4sie4z3.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\6elneuptzt-63fj8s7r0e.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\p5caoxn2lf-0j3bgjxly4.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\kkdwfym0lg-47otxtyo56.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\f0p35uexca-4v8eqarkd7.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\01b5wldsud-356vix0kms.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\e791cqk95n-83jwlth58m.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\45jfqt2vxs-mrlpezrjn3.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\89z9pjhrs7-lzl9nlhx6b.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\ldkwdudg41-ag7o75518u.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\5kkyy8sb52-x0q3zqp4vz.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\npbq2hk74c-0i3buxo5is.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\b0kkciisd3-o1o13a6vjx.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\i9sembkgc3-ttgo8qnofa.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\rtaklepsfb-2z0ns9nrw6.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\mkuqeb4k1b-muycvpuwrr.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\w2wmvj2rty-87fc7y1x7t.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\d7wwp9l64k-mlv21k5csn.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\gjd24ra3ng-4oxxxjknjn.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\compressed\kck31dh8kd-4oxxxjknjn.gz
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets\msbuild.Projeto TCC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets\msbuild.Projeto TCC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto TCC.props
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto TCC.props
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto TCC.props
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.dll
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\refint\Projeto TCC.dll
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.pdb
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\Projeto TCC.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\Workshop\Projetos-web\Projeto TCC\obj\Debug\net9.0\ref\Projeto TCC.dll

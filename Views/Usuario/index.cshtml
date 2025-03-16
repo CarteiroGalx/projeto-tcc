@@ -1,0 +1,45 @@
+@model IEnumerable<Projeto_TCC.Models.Professor>
+
+@{
+    ViewData["Title"] = "Listagem de Contatos";
+}
+
+<h2>Usuários</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.senha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.registro)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.senha)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.registro)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

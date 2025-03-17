@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\Projeto TCC\\Projeto TCC.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\projeto-tcc\\Projeto TCC.csproj",
       "projectName": "Projeto TCC",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\Projeto TCC\\Projeto TCC.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\projeto-tcc\\Projeto TCC.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\Projeto TCC\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\Workshop\\Projetos-web\\projeto-tcc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

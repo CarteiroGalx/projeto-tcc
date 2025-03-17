@@ -24,9 +24,11 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
+       @if (Model != null)
+{
+    foreach (var item in Model)
+    {
+        <tr>
                 <td>
                     @Html.DisplayFor(model => item.id)
                 </td>
@@ -40,6 +42,11 @@
                     @Html.DisplayFor(model => item.registro)
                 </td>
             </tr>
-        }
+    }
+}
+else
+{
+    <p>Nenhum dado encontrado.</p>
+}
     </tbody>
 </table>

@@ -5,22 +5,22 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Projeto_TCC.Context;
 
 namespace Projeto_TCC.Controllers
 {
     [Route("[controller]")]
     public class UsuarioController : Controller
     {
-        private readonly ILogger<UsuarioController> _logger;
-
-        public UsuarioController(ILogger<UsuarioController> logger)
+        private readonly ConectContext _context;
+         public UsuarioController(ConectContext context)
         {
-            _logger = logger;
+            _context = context;
         }
-
         public IActionResult Index()
         {
-            return View();
+            var Usuario = _context.Professores.ToList();
+            return View(Usuario);
         }
 
     }
